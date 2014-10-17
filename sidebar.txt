@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yox:home|Door43 (yox)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yox|d43-yox repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yox/archive/master.zip|d43-yox.zip]]
+
+**Recent Changes**
+{{changes>ns = yox}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yox|Ethnologue data]]
+
